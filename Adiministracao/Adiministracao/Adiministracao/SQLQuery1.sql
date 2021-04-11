@@ -1,1 +1,0 @@
-select 'Teste Git'
